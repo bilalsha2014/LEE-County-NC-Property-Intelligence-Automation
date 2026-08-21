@@ -1,6 +1,9 @@
-requests
+streamlit
 pandas
 geopandas
 shapely
-pyarrow
-streamlit
+requests
+urllib3
+beautifulsoup4
+numpy
+pyogrio
