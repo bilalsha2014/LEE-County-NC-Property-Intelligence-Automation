@@ -1,7 +1,5 @@
-PySide6
 requests
 pandas
 geopandas
 shapely
 pyarrow
-fiona
